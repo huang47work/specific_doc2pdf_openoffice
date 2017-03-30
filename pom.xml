@@ -8,11 +8,13 @@
     <artifactId>doc2pdf_openoffice</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
+<!--
         <dependency>
             <groupId>com.artofsolving</groupId>
             <artifactId>jodconverter-maven-plugin</artifactId>
             <version>2.2.1</version>
         </dependency>
+-->
     </dependencies>
 
 
